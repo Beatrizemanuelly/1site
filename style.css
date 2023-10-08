@@ -1,12 +1,23 @@
 body {
-  backgroud: #CCCCCC;
+  backgroud: #CCCCCC; /*cor de fundo*/
 }
 
+#banner {
+    width: 100%; /*largura*/
+}
+
+h1 {
+    text-align: center /* alinhamento do texto*/
+}
 
 p {
-  text-align: center;
-  backgroud: #CCCCCC;
+  text-align: center;/* alinhamento do texto*/
 }
-h1 {
-  background: #CCCCCC;
+
+#missão {
+    font-size: 20px /*tamanho da fonte*/
+}
+
+em strong {
+     color: #FF0000;/*cor*/
 }
